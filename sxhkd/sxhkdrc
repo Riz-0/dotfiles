@@ -5,7 +5,7 @@ super + Escape
 
 # Application launcher
 super + space
-  rofi -show run
+  rofi -show drun
 
 # Application shortcuts
 super + {Return,b,e}
