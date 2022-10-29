@@ -10,7 +10,7 @@
 
 
 #---Autostart---#
-feh --bg-scale /home/riz/Pictures/wallpaper.png
+feh --bg-scale ~/.config/wallpaper.png
 ~/.config/polybar/launch.sh
 ~/.config/bspwm/script.sh
 sxhkd &
